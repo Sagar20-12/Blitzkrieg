@@ -1,4 +1,4 @@
-# Code Deck | An Online IDE
+# Blitzkrieg | An Online IDE
 
 ## Demo
 
